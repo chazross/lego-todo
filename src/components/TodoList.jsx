@@ -32,7 +32,7 @@ export default function TodoList() {
 
     return (
         <div className="audiowide-regular">
-          <Navbar />
+          <Navbar/>
             
             <form onSubmit={handleSubmit}>
                 <input 
